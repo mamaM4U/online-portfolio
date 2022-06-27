@@ -7,6 +7,8 @@ import About from './pages/About';
 import Experience from './pages/Experience';
 import Education from './pages/Education';
 import Skills from './pages/Skills';
+import Interests from './pages/Interests';
+import Awards from './pages/Awards';
 
 
 class App extends React.Component {
@@ -19,8 +21,8 @@ class App extends React.Component {
         <Route path='/experience' element={<Experience/>} />
         <Route path='/education' element={<Education/>} />
         <Route path='/skills' element={<Skills/>} />
-        <Route path='/interests' element={<Skills/>} />
-        <Route path='/awards' element={<Skills/>} />
+        <Route path='/interests' element={<Interests/>} />
+        <Route path='/awards' element={<Awards/>} />
       </Routes>
       <Header/>
       <Footer/>
