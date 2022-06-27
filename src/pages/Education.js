@@ -4,7 +4,7 @@ export class Education extends Component {
       return (
         <section className="education" id="educaton">
 
-        <h1 className="heading"> <span> my </span> experience </h1>
+        <h1 className="heading"> <span> my </span> education </h1>
     
         <div className="box-container">
     
