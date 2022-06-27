@@ -11,7 +11,7 @@ export class About extends Component {
             <span className="hi"> Hallo... </span>
             <h3> i am <span> afdrian juarlin </span> </h3>
             <p className="info"> i am a mobile developer </p>
-            <p className="text"> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias quidem excepturi natus iste ut. Alias, quod? Earum pariatur obcaecati dolorum! </p>
+            <p className="text">I am a 22 y.o. mobile developer that love using flutter. But currently i use java native as my primary programming language, and i also learn react native and react js in Hacktiv8.</p>
             <div class="follow">
     </div>
         </div>
