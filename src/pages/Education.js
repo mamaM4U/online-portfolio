@@ -10,49 +10,49 @@ export class Education extends Component {
     
             <div className="box">
                 <div className="content">
-                    <span>early 2016 - end 2017 </span>
-                    <h3>School Web Portfolio</h3>
-                    <p>Membuat tampilan untuk web sekolah smk telekomunikasi telesandi bekasi menggunakan html dan vanilla css</p>
+                    <span>2007 - 2012 </span>
+                    <h3>Mi Al - Hidayah</h3>
+                    <p>Sekolah Dasar</p>
                 </div>
             </div>
     
             <div className="box">
                 <div className="content">
-                    <span> Mid 2019 - end 2019 </span>
-                    <h3>Android Courier App</h3>
-                    <p>Membuat aplikasi android native untuk courier berbasis java, dengan feature real time location</p>
+                    <span> 2015 - 2018 </span>
+                    <h3>SMKS TELEKOMUNIKASI TELESANDI BEKASI</h3>
+                    <p>Sekolah Menengah Kejuruan</p>
                 </div>
             </div>
     
             <div className="box">
                 <div className="content">
-                    <span>early 2021 - end 2021 </span>
-                    <h3>Mobile ops</h3>
-                    <p>Membuat aplikasi hybrid untuk operasional logistik menggunakan flutter dengan feature scanning</p>
+                    <span>2019</span>
+                    <h3>Dicoding</h3>
+                    <p>Android Course</p>
                 </div>
             </div>
     
             <div className="box">
                 <div className="content">
-                    <span>early 2018 - mid 2018 </span>
-                    <h3>Desktop Task App</h3>
-                    <p>Membuat aplikasi desktop untuk task managament pada sebuah perusahaan dengan visual basic</p>
+                    <span>2012-2015</span>
+                    <h3>SMPN 16 DEPOK</h3>
+                    <p>Sekolah Menengah Pertama</p>
                 </div>
             </div>
     
             <div className="box">
                 <div className="content">
-                    <span>early 2020 - end 2020 </span>
-                    <h3>Mobile Customer App</h3>
-                    <p>Membuat aplikasi hybrid untuk customer logistik menggunakan flutter dengan feature realtime tracking</p>
+                    <span>2018 - 2022 </span>
+                    <h3>Universitas Indraprasta PGRI</h3>
+                    <p>Strata 1 Informatika</p>
                 </div>
             </div>
     
             <div className="box">
                 <div className="content">
-                    <span>early 2022 - mid 2022 </span>
-                    <h3>Mobile Trucking App</h3>
-                    <p>Membuat aplikasi android native untuk driver berbasis java, dengan feature real time location</p>
+                    <span>2022</span>
+                    <h3>Hacktiv8</h3>
+                    <p>React Course</p>
                 </div>
             </div>
     
