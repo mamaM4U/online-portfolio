@@ -19,6 +19,8 @@ class App extends React.Component {
         <Route path='/experience' element={<Experience/>} />
         <Route path='/education' element={<Education/>} />
         <Route path='/skills' element={<Skills/>} />
+        <Route path='/interests' element={<Skills/>} />
+        <Route path='/awards' element={<Skills/>} />
       </Routes>
       <Header/>
       <Footer/>
