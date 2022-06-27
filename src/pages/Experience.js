@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import logo from '../logo.svg';
 export class Experience extends Component {
     render() {
       return (
